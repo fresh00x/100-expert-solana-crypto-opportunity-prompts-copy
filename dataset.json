@@ -1,0 +1,50 @@
+[
+  {
+    "name": "General Knowledge",
+    "prompts": [
+      "What makes Solana stand out in the crypto market?",
+      "How does Solana's consensus mechanism improve transaction speed?",
+      "Explain the benefits of using Solana for DeFi applications."
+    ]
+  },
+  {
+    "name": "Product Ideas",
+    "prompts": [
+      "List 5 innovative products that could be built on Solana.",
+      "Describe a unique financial application that only Solana can support.",
+      "What new use case for NFTs can Solana enable?"
+    ]
+  },
+  {
+    "name": "Marketing Copy",
+    "prompts": [
+      "Craft an attention-grabbing headline for a Solana-focused newsletter.",
+      "Write a compelling social media post about the benefits of Solana.",
+      "Create a persuasive sales pitch for investing in Solana crypto."
+    ]
+  },
+  {
+    "name": "Engaging Content Generation",
+    "prompts": [
+      "Compare and contrast Solana with other major cryptocurrencies.",
+      "How does Solana's approach to scalability improve user experience?",
+      "Write an engaging article on the future of Solana in the crypto space."
+    ]
+  },
+  {
+    "name": "Advanced Applications",
+    "prompts": [
+      "What unique opportunities does Solana offer for smart contract development?",
+      "Explain how Solana can enhance privacy and security in blockchain-based services.",
+      "Describe a real-world use case for Solana's high transaction throughput."
+    ]
+  },
+  {
+    "name": "Wow-Level Prompts",
+    "prompts": [
+      "Imagine a world where Solana powers the entire global supply chain ecosystem. How would that work?",
+      "Create a futuristic scenario where Solana becomes the backbone of the global financial system.",
+      "Write an imaginative short story about a successful Solana-based startup."
+    ]
+  }
+]
