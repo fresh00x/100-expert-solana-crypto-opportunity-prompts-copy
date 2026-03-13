@@ -1,4 +1,4 @@
-# 100 Expert Solana Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work
+# 100-expert-solana-crypto-opportunity-prompts:-copy-paste-ai-
 
 Become an AI power user and unlock the full potential of Solana crypto opportunity with these 100 battle-tested prompts for ChatGPT or Claude! Designed to help you generate engaging content, product i
 
@@ -6,7 +6,7 @@ Become an AI power user and unlock the full potential of Solana crypto opportuni
 
 | Property | Value |
 |---|---|
-| Records | 6 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,14 +14,7 @@ Become an AI power user and unlock the full potential of Solana crypto opportuni
 ## Sample
 
 ```json
-{
-  "name": "General Knowledge",
-  "prompts": [
-    "What makes Solana stand out in the crypto market?",
-    "How does Solana's consensus mechanism improve transaction speed?",
-    "Explain the benefits of using Solana for DeFi applications."
-  ]
-}
+Keys: title, description, price
 ```
 
 ## Usage
